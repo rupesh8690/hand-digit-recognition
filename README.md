@@ -26,4 +26,26 @@ A simple Tkinter GUI-based digit recognizer built with TensorFlow (Keras) that l
 - NumPy
 
 **Setup Instruction**
-'git clone 
+
+
+`git clone https://github.com/rupesh8690/hand-digit-recognition.git`
+
+
+`cd hand-digit-recognition`
+
+**Create a Virtual Environment for windows**
+
+`python -m venv venv
+venv\Scripts\activate`
+
+
+**Install the dependencies**
+
+
+`pip install tensorflow pillow numpy`
+
+**Run The Application**
+
+`python digit.py`
+
+
