@@ -48,4 +48,5 @@ venv\Scripts\activate`
 
 `python digit.py`
 
-
+**Live Demo**
+https://github.com/user-attachments/assets/370b4fd0-bafc-4333-bc4b-f828a1504dba
